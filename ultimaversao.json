@@ -1,0 +1,1066 @@
+{
+    "Authentication": {
+        "Method": 1
+    },
+    "BuiltinDirectory": {
+        "NetworkObjects": {
+            "JsonStoreArray": [
+                {
+                    "Name": "Salas",
+                    "Type": 2,
+                    "Uid": "{e0f7e581-c50c-4df0-ad26-1cfcd0a0a32a}"
+                },
+                {
+                    "Name": "Multimeios",
+                    "Type": 2,
+                    "Uid": "{4c01fab1-e15c-4520-b9f6-3cf22d14b855}"
+                },
+                {
+                    "Name": "Lab 03",
+                    "Type": 2,
+                    "Uid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}"
+                },
+                {
+                    "HostAddress": "10.68.38.111",
+                    "Name": "LabIII01",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{4bdae871-663e-40bd-80a2-beebd17afe5a}"
+                },
+                {
+                    "HostAddress": "10.68.38.112",
+                    "Name": "LabIII02",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{d4dd964e-7fa0-4532-be87-bb2ffa929406}"
+                },
+                {
+                    "HostAddress": "10.68.38.113",
+                    "Name": "LabIII03",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{406b6a8f-dfa5-47a0-b075-5dd5bc58b3e8}"
+                },
+                {
+                    "HostAddress": "10.68.38.114",
+                    "Name": "LabIII04",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{c5f77aea-aeab-490f-a6fe-3772b392dfd7}"
+                },
+                {
+                    "HostAddress": "10.68.38.115",
+                    "Name": "LabIII05",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{cf725959-4716-4a9d-bf40-cd9bb742bc34}"
+                },
+                {
+                    "HostAddress": "10.68.38.116",
+                    "Name": "LabIII06",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{135e91ce-74cc-4141-be91-4ac79a042c25}"
+                },
+                {
+                    "HostAddress": "10.68.38.117",
+                    "Name": "LabIII07",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{eb850797-2edd-405e-9eda-3e2853fa7b2a}"
+                },
+                {
+                    "HostAddress": "10.68.38.118",
+                    "Name": "LabIII08",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{30d91aca-f6b7-4271-921b-b4d04b50a53c}"
+                },
+                {
+                    "HostAddress": "10.68.38.119",
+                    "Name": "LabIII09",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{c28dbbce-6fad-464d-a832-e9dca33f478c}"
+                },
+                {
+                    "HostAddress": "10.68.38.120",
+                    "Name": "LabIII10",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{71f6dd7d-ee46-422a-bf58-c5334dfaee0c}"
+                },
+                {
+                    "HostAddress": "10.68.38.121",
+                    "Name": "LabIII11",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{4065d076-cc8f-4cf0-88ab-f4ceb69113f0}"
+                },
+                {
+                    "HostAddress": "10.68.38.122",
+                    "Name": "LabIII12",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{86e3992f-17db-4c36-b696-9df5cbc42a57}"
+                },
+                {
+                    "HostAddress": "10.68.38.123",
+                    "Name": "LabIII13",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{a9208090-7b16-4dcc-88e7-28682ad468f9}"
+                },
+                {
+                    "HostAddress": "10.68.38.124",
+                    "Name": "LabIII14",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{51d3e068-bb2c-414b-a3d7-d15e97bdebf9}"
+                },
+                {
+                    "HostAddress": "10.68.38.125",
+                    "Name": "LabIII15",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{4055f007-7429-468f-8417-a3bf8ba18952}"
+                },
+                {
+                    "HostAddress": "10.68.38.126",
+                    "Name": "LabIII16",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{d0d898b4-5517-404c-a273-8d2e92a0902a}"
+                },
+                {
+                    "HostAddress": "10.68.38.127",
+                    "Name": "LabIII17",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{1fd3e8c1-b2da-43c7-b819-ebb635500af5}"
+                },
+                {
+                    "HostAddress": "10.68.38.128",
+                    "Name": "LabIII18",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{150b6cb5-ee08-42c5-b0b2-6463f52ec52a}"
+                },
+                {
+                    "HostAddress": "10.68.38.129",
+                    "Name": "LabIII19",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{25cb182e-ee3a-47e6-bfaf-f4e2a8ce35f5}"
+                },
+                {
+                    "HostAddress": "10.68.38.130",
+                    "Name": "LabIII20",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{2bc61645-1961-4d41-b1dc-30d2c622e342}"
+                },
+                {
+                    "HostAddress": "10.68.39.41",
+                    "Name": "Sala01",
+                    "ParentUid": "{e0f7e581-c50c-4df0-ad26-1cfcd0a0a32a}",
+                    "Type": 3,
+                    "Uid": "{d2330228-2896-4047-a68d-9b5ebc80cd19}"
+                },
+                {
+                    "HostAddress": "10.68.39.42",
+                    "Name": "Sala02",
+                    "ParentUid": "{e0f7e581-c50c-4df0-ad26-1cfcd0a0a32a}",
+                    "Type": 3,
+                    "Uid": "{cba2f029-7587-4fb0-a623-3bf6fa7d6aba}"
+                },
+                {
+                    "HostAddress": "10.68.39.43",
+                    "Name": "Sala03",
+                    "ParentUid": "{e0f7e581-c50c-4df0-ad26-1cfcd0a0a32a}",
+                    "Type": 3,
+                    "Uid": "{fc846e8f-699c-4903-a952-84f2403f89e9}"
+                },
+                {
+                    "HostAddress": "10.68.39.44",
+                    "Name": "Sala04",
+                    "ParentUid": "{e0f7e581-c50c-4df0-ad26-1cfcd0a0a32a}",
+                    "Type": 3,
+                    "Uid": "{9d3ccbae-dc62-4ec7-97a9-ccfbb5f21e20}"
+                },
+                {
+                    "HostAddress": "10.68.39.45",
+                    "Name": "Sala05",
+                    "ParentUid": "{e0f7e581-c50c-4df0-ad26-1cfcd0a0a32a}",
+                    "Type": 3,
+                    "Uid": "{5addc61d-6f5b-4a00-bb57-15fecc98de5a}"
+                },
+                {
+                    "HostAddress": "10.68.39.46",
+                    "Name": "Sala06",
+                    "ParentUid": "{e0f7e581-c50c-4df0-ad26-1cfcd0a0a32a}",
+                    "Type": 3,
+                    "Uid": "{5dac23b5-df65-43bc-88b0-9985d0ad0f1c}"
+                },
+                {
+                    "HostAddress": "10.68.39.47",
+                    "Name": "Sala07",
+                    "ParentUid": "{e0f7e581-c50c-4df0-ad26-1cfcd0a0a32a}",
+                    "Type": 3,
+                    "Uid": "{51c851e3-f5f8-4ec0-9892-2e4c0813cd83}"
+                },
+                {
+                    "HostAddress": "10.68.39.48",
+                    "Name": "Sala08",
+                    "ParentUid": "{e0f7e581-c50c-4df0-ad26-1cfcd0a0a32a}",
+                    "Type": 3,
+                    "Uid": "{bdfd6f30-fa1f-4fb2-8b0b-3e4461e476af}"
+                },
+                {
+                    "HostAddress": "10.68.39.49",
+                    "Name": "Sala09",
+                    "ParentUid": "{e0f7e581-c50c-4df0-ad26-1cfcd0a0a32a}",
+                    "Type": 3,
+                    "Uid": "{0b4a42aa-856d-4052-9bc2-755d5446ebdf}"
+                },
+                {
+                    "Name": "Lab Gestão",
+                    "Type": 2,
+                    "Uid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}"
+                },
+                {
+                    "HostAddress": "10.68.39.61",
+                    "Name": "LabG01",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{c1bfbc4f-f534-41d4-b75f-778350f45bfe}"
+                },
+                {
+                    "HostAddress": "10.68.39.62",
+                    "Name": "LabG02",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{2402dd0b-1daa-498c-ac49-e43d3fc74b89}"
+                },
+                {
+                    "HostAddress": "10.68.39.63",
+                    "Name": "LabG03",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{955300f9-4237-4d84-be8b-716ce43ce3f9}"
+                },
+                {
+                    "HostAddress": "10.68.39.64",
+                    "Name": "LabG04",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{41af0a7c-9c1a-4845-bf99-2ca2e87a50cd}"
+                },
+                {
+                    "HostAddress": "10.68.39.65",
+                    "Name": "LabG05",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{df6d4e91-b2d5-4be2-ada9-1ab4a5bf7b18}"
+                },
+                {
+                    "HostAddress": "10.68.39.66",
+                    "Name": "LabG06",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{33a21695-d979-468c-b40e-e7f1cceeb1bc}"
+                },
+                {
+                    "HostAddress": "10.68.39.67",
+                    "Name": "LabG07",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{ddce3151-a0b0-4e13-b6c3-efe2736b9549}"
+                },
+                {
+                    "HostAddress": "10.68.39.68",
+                    "Name": "LabG08",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{4144787c-bc63-4075-99ca-debf31ba3258}"
+                },
+                {
+                    "HostAddress": "10.68.39.69",
+                    "Name": "LabG09",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{8c8b23bc-90c6-46a1-914b-8e8384406508}"
+                },
+                {
+                    "HostAddress": "10.68.39.70",
+                    "Name": "LabG10",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{8b36c05b-4cdd-41b9-a68d-75895e1c719a}"
+                },
+                {
+                    "HostAddress": "10.68.39.71",
+                    "Name": "LabG11",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{f39e2759-9969-42cf-bb24-41b5da2539ae}"
+                },
+                {
+                    "HostAddress": "10.68.39.72",
+                    "Name": "LabG12",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{ee4f6ece-5f41-4d9c-ad46-30243a13aef2}"
+                },
+                {
+                    "HostAddress": "10.68.39.73",
+                    "Name": "LabG13",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{d7311063-8d64-4a75-807c-51df455948e9}"
+                },
+                {
+                    "HostAddress": "10.68.39.74",
+                    "Name": "LabG14",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{dfb6d4be-f0a2-4e80-9e04-44af54ac2d3f}"
+                },
+                {
+                    "HostAddress": "10.68.39.75",
+                    "Name": "LabG15",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{60b92e4d-5d69-4fb9-8b29-5250cd70b223}"
+                },
+                {
+                    "HostAddress": "10.68.39.76",
+                    "Name": "LabG16",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{b0c753d7-c66b-4609-9561-def82004859a}"
+                },
+                {
+                    "HostAddress": "10.68.39.77",
+                    "Name": "LabG17",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{79eb89ae-4b8d-4435-994b-f4c77058ac36}"
+                },
+                {
+                    "HostAddress": "10.68.39.78",
+                    "Name": "LabG18",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{b4b5a394-09fa-4d19-afe8-15cc03a2ec39}"
+                },
+                {
+                    "HostAddress": "10.68.39.79",
+                    "Name": "LabG19",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{52a4865c-a460-4507-9736-f697bbf6c239}"
+                },
+                {
+                    "HostAddress": "10.68.39.80",
+                    "Name": "LabG20",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{37a09aa3-8f49-45a2-946d-7d486d06aa20}"
+                },
+                {
+                    "HostAddress": "10.68.39.81",
+                    "Name": "LabGProf",
+                    "ParentUid": "{5c91eca6-8603-4413-a4a8-ebe86a3f24d1}",
+                    "Type": 3,
+                    "Uid": "{ceef5e06-aa8d-4702-80e9-d4a490229409}"
+                },
+                {
+                    "HostAddress": "10.68.38.131",
+                    "Name": "LabIIIProf",
+                    "ParentUid": "{2f04d633-2bf9-44e9-8d53-ac0cb4c154dc}",
+                    "Type": 3,
+                    "Uid": "{786dcdc8-47d6-4a9c-9293-255b9061e4c5}"
+                },
+                {
+                    "Name": "Biblioteca",
+                    "Type": 2,
+                    "Uid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}"
+                },
+                {
+                    "HostAddress": "10.68.39.21",
+                    "Name": "Biblio01",
+                    "ParentUid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}",
+                    "Type": 3,
+                    "Uid": "{c1a67aa1-382b-40e2-a71c-0f5e7275672b}"
+                },
+                {
+                    "HostAddress": "10.68.39.22",
+                    "Name": "Biblio02",
+                    "ParentUid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}",
+                    "Type": 3,
+                    "Uid": "{7332d745-5424-4126-be53-221b28be2119}"
+                },
+                {
+                    "HostAddress": "10.68.39.23",
+                    "Name": "Biblio03",
+                    "ParentUid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}",
+                    "Type": 3,
+                    "Uid": "{74cff932-c2a6-450c-b24e-efec0b994ce1}"
+                },
+                {
+                    "HostAddress": "10.68.39.24",
+                    "Name": "Biblio04",
+                    "ParentUid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}",
+                    "Type": 3,
+                    "Uid": "{cb7bb373-93f8-468f-835d-595d8b8c71c6}"
+                },
+                {
+                    "HostAddress": "10.68.39.25",
+                    "Name": "Biblio05",
+                    "ParentUid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}",
+                    "Type": 3,
+                    "Uid": "{73785a47-4c04-46e5-84e7-f8252e005e69}"
+                },
+                {
+                    "HostAddress": "10.68.39.26",
+                    "Name": "Biblio06",
+                    "ParentUid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}",
+                    "Type": 3,
+                    "Uid": "{b3392045-05e4-4848-b96f-b0f24677b5e1}"
+                },
+                {
+                    "HostAddress": "10.68.39.27",
+                    "Name": "Biblio07",
+                    "ParentUid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}",
+                    "Type": 3,
+                    "Uid": "{84835015-a504-4a1c-a5ff-b5d08e52836e}"
+                },
+                {
+                    "HostAddress": "10.68.39.28",
+                    "Name": "Biblio08",
+                    "ParentUid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}",
+                    "Type": 3,
+                    "Uid": "{0136c98a-b7ca-40cd-8308-9bffb1741597}"
+                },
+                {
+                    "HostAddress": "10.68.39.29",
+                    "Name": "Biblio09",
+                    "ParentUid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}",
+                    "Type": 3,
+                    "Uid": "{b49abde2-306e-4c55-b17d-7da22852087c}"
+                },
+                {
+                    "HostAddress": "10.68.39.30",
+                    "Name": "Biblio10",
+                    "ParentUid": "{4caa87d1-efbd-4afc-9c95-3d9b7e30786a}",
+                    "Type": 3,
+                    "Uid": "{ae01726c-4f13-43e9-ba45-d952eb3f4081}"
+                },
+                {
+                    "Name": "Lab 05",
+                    "Type": 2,
+                    "Uid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}"
+                },
+                {
+                    "HostAddress": "10.68.38.171",
+                    "Name": "LabV01",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{78a3c2ab-3ae6-493c-bf07-7d869fbc95ca}"
+                },
+                {
+                    "HostAddress": "10.68.38.172",
+                    "Name": "LabV02",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{62be6771-5b1a-4567-96cf-b33fdfdffb80}"
+                },
+                {
+                    "HostAddress": "10.68.38.173",
+                    "Name": "LabV03",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{4d02348c-a067-4f06-bb1a-79214c89202e}"
+                },
+                {
+                    "HostAddress": "10.68.38.174",
+                    "Name": "LabV04",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{9e5be33c-fe49-4ed7-b1d9-5d861a83fb30}"
+                },
+                {
+                    "HostAddress": "10.68.38.175",
+                    "Name": "LabV05",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{f1de29d3-ef18-470a-bdef-bb99055cd361}"
+                },
+                {
+                    "HostAddress": "10.68.38.176",
+                    "Name": "LabV06",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{73b9eed7-dba4-437f-9f0e-cd380bec0cff}"
+                },
+                {
+                    "HostAddress": "10.68.38.177",
+                    "Name": "LabV07",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{a16684a7-d9c7-44b1-8f24-a6d18cd93bce}"
+                },
+                {
+                    "HostAddress": "10.68.38.178",
+                    "Name": "LabV08",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{18c00891-b244-46aa-aaea-bbe52f07f514}"
+                },
+                {
+                    "HostAddress": "10.68.38.179",
+                    "Name": "LabV09",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{1110798e-e53d-4e84-9aba-7889c1aec717}"
+                },
+                {
+                    "HostAddress": "10.68.38.180",
+                    "Name": "LabV10",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{25674e18-769c-4956-badb-b0ea2ada1911}"
+                },
+                {
+                    "HostAddress": "10.68.38.181",
+                    "Name": "LabV11",
+                    "ParentUid": "{23185ff5-22fa-4c44-bed1-f162d3faaefe}",
+                    "Type": 3,
+                    "Uid": "{12c5603b-d6ab-4ae0-81e0-4db6121a5351}"
+                },
+                {
+                    "Name": "Lab 01",
+                    "Type": 2,
+                    "Uid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}"
+                },
+                {
+                    "HostAddress": "10.68.38.81",
+                    "Name": "LabI01",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{d594186d-8c7a-4aaa-b681-505261b40919}"
+                },
+                {
+                    "HostAddress": "10.68.38.82",
+                    "Name": "LabI02",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{f6d481db-9150-4e86-bca9-55b9a23e5d4a}"
+                },
+                {
+                    "HostAddress": "10.68.38.83",
+                    "Name": "LabI03",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{8b4f04fb-da6e-46e8-a86e-6e21da842215}"
+                },
+                {
+                    "HostAddress": "10.68.38.84",
+                    "Name": "LabI04",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{12e922c2-1a9d-4194-8281-879dd97e3df2}"
+                },
+                {
+                    "HostAddress": "10.68.38.85",
+                    "Name": "LabI05",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{45bc82d7-5bba-4c61-97cd-158b6f3a6510}"
+                },
+                {
+                    "HostAddress": "10.68.38.86",
+                    "Name": "LabI06",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{27ac0dd4-21c7-4c7a-96d7-fe147277412f}"
+                },
+                {
+                    "HostAddress": "10.68.38.87",
+                    "Name": "LabI07",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{10e8925b-6531-4800-8193-955fee2f1523}"
+                },
+                {
+                    "HostAddress": "10.68.38.88",
+                    "Name": "LabI08",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{07d8a0df-8fa9-4ca7-bf3d-8253f86712fe}"
+                },
+                {
+                    "HostAddress": "10.68.38.89",
+                    "Name": "LabI09",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{117b393b-a44b-4203-8053-839fbff5e337}"
+                },
+                {
+                    "HostAddress": "10.68.38.90",
+                    "Name": "LabI10",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{7b7b9d18-c0c5-4e06-b0b3-2bc633f705a4}"
+                },
+                {
+                    "HostAddress": "10.68.38.91",
+                    "Name": "LabI11",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{aa07be4f-aab2-4ce9-854d-dae65cc0d900}"
+                },
+                {
+                    "HostAddress": "10.68.38.92",
+                    "Name": "LabI12",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{bbfb6ba6-8186-4042-b971-46cb7a4a6503}"
+                },
+                {
+                    "HostAddress": "10.68.38.93",
+                    "Name": "LabI13",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{a3974ec7-06bd-4d17-be45-233e105782f5}"
+                },
+                {
+                    "HostAddress": "10.68.38.94",
+                    "Name": "LabI14",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{2f96824a-3f2d-47cd-8ad2-d0d5d1580a36}"
+                },
+                {
+                    "HostAddress": "10.68.38.95",
+                    "Name": "LabI15",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{080511cb-eb6d-40a1-8bbe-65033067b4d4}"
+                },
+                {
+                    "HostAddress": "10.68.38.96",
+                    "Name": "LabI16",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{da701bb8-1cd6-4e5a-8da2-fc76403efbfb}"
+                },
+                {
+                    "HostAddress": "10.68.38.97",
+                    "Name": "LabI17",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{b720eb8e-b107-42ed-8121-da5e990d3dfa}"
+                },
+                {
+                    "HostAddress": "10.68.38.98",
+                    "Name": "LabI18",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{7ec3a613-b63f-4116-b89b-87d56c28d15e}"
+                },
+                {
+                    "HostAddress": "10.68.38.99",
+                    "Name": "LabI19",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{e6b7c4be-9584-475d-8abb-484cb4602b64}"
+                },
+                {
+                    "HostAddress": "10.68.38.100",
+                    "Name": "LabI20",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{97003b53-c8ed-4bd6-9151-f92338cea068}"
+                },
+                {
+                    "HostAddress": "10.68.38.101",
+                    "Name": "LabIProf",
+                    "ParentUid": "{e0c590fe-0309-4b33-8350-dd1cfefb31f9}",
+                    "Type": 3,
+                    "Uid": "{955ef5d7-c72c-4690-aff2-d3a619a79d2e}"
+                },
+                {
+                    "Name": "Lab 04",
+                    "Type": 2,
+                    "Uid": "{7db58b59-89c1-45b6-8e5a-79754931e564}"
+                },
+                {
+                    "HostAddress": "10.68.38.141",
+                    "Name": "LabIV01",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{bb7c28b7-de2d-403c-bb5e-6fb55a2dcec5}"
+                },
+                {
+                    "HostAddress": "10.68.38.142",
+                    "Name": "LabIV02",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{09174a25-beb1-4fe6-855b-ef034a4be70f}"
+                },
+                {
+                    "HostAddress": "10.68.38.143",
+                    "Name": "LabIV03",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{d8d9af1b-fc28-42f3-9b03-085feca9e159}"
+                },
+                {
+                    "HostAddress": "10.68.38.144",
+                    "Name": "LabIV04",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{55d21e51-9345-48a9-bf0b-e1b8147c18b7}"
+                },
+                {
+                    "HostAddress": "10.68.38.145",
+                    "Name": "LabIV05",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{ae94dc81-4c8f-4dd3-ab1b-edee580ace29}"
+                },
+                {
+                    "HostAddress": "10.68.38.146",
+                    "Name": "LabIV06",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{b9a69da9-2803-436c-82fc-33286ca32af0}"
+                },
+                {
+                    "HostAddress": "10.68.38.147",
+                    "Name": "LabIV07",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{17ec19ac-9a04-4aa0-b43f-1c2319be5ea6}"
+                },
+                {
+                    "HostAddress": "10.68.38.148",
+                    "Name": "LabIV08",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{615b1704-829a-456d-bcb1-975a66044b2a}"
+                },
+                {
+                    "HostAddress": "10.68.38.149",
+                    "Name": "LabIV09",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{ef3a1258-f693-4591-9083-bc2a440627d7}"
+                },
+                {
+                    "HostAddress": "10.68.38.150",
+                    "Name": "LabIV10",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{6b70478e-3848-4ad8-adde-1b3d7a1516ce}"
+                },
+                {
+                    "HostAddress": "10.68.38.151",
+                    "Name": "LabIV11",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{684b4f9d-5289-4f23-b795-1ac519f656e1}"
+                },
+                {
+                    "HostAddress": "10.68.38.152",
+                    "Name": "LabIV12",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{28a4f0b6-0c1f-490e-995c-980740ec1e8a}"
+                },
+                {
+                    "HostAddress": "10.68.38.153",
+                    "Name": "LabIV13",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{26d0de1c-f8ff-4ff3-ba23-520c7f6008e0}"
+                },
+                {
+                    "HostAddress": "10.68.38.154",
+                    "Name": "LabIV14",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{72ce5d2b-b9b0-4881-9dae-57d17223eaa6}"
+                },
+                {
+                    "HostAddress": "10.68.38.155",
+                    "Name": "LabIV15",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{d7061295-8acf-4fda-9cff-67550b32c8af}"
+                },
+                {
+                    "HostAddress": "10.68.38.156",
+                    "Name": "LabIV16",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{743a2955-223f-457c-a9df-fa959dcd449a}"
+                },
+                {
+                    "HostAddress": "10.68.38.157",
+                    "Name": "LabIV17",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{87bd4cc6-8603-4507-8031-742e52285488}"
+                },
+                {
+                    "HostAddress": "10.68.38.158",
+                    "Name": "LabIV18",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{3f51393d-069d-4c35-a5c3-81ea58cef9c3}"
+                },
+                {
+                    "HostAddress": "10.68.38.159",
+                    "Name": "LabIV19",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{1ce9d508-8ccf-4781-913a-33043b1cf5eb}"
+                },
+                {
+                    "HostAddress": "10.68.38.160",
+                    "Name": "LabIV20",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{a9fa71c6-7941-4f36-aee1-2cc46ce6e540}"
+                },
+                {
+                    "HostAddress": "10.68.38.170",
+                    "Name": "LabIVProf",
+                    "ParentUid": "{7db58b59-89c1-45b6-8e5a-79754931e564}",
+                    "Type": 3,
+                    "Uid": "{f43130e1-af29-4c71-b6d4-f58e443d6984}"
+                },
+                {
+                    "HostAddress": "10.68.38.71",
+                    "Name": "Multi01",
+                    "ParentUid": "{4c01fab1-e15c-4520-b9f6-3cf22d14b855}",
+                    "Type": 3,
+                    "Uid": "{6f51c4f6-fd13-4fc0-aa28-e02970cadb24}"
+                },
+                {
+                    "HostAddress": "10.68.38.72",
+                    "Name": "Multi02",
+                    "ParentUid": "{4c01fab1-e15c-4520-b9f6-3cf22d14b855}",
+                    "Type": 3,
+                    "Uid": "{ba11d3b7-99d9-4eb5-8435-ccf1f046622c}"
+                },
+                {
+                    "Name": "Lab 02",
+                    "Type": 2,
+                    "Uid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}"
+                },
+                {
+                    "HostAddress": "10.68.39.201",
+                    "Name": "Lab02-01",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{87b9fdde-6739-46e3-a081-fce02200a227}"
+                },
+                {
+                    "HostAddress": "10.68.39.202",
+                    "Name": "Lab02-02",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{489914a9-582b-49ac-97e5-8ab213ec392f}"
+                },
+                {
+                    "HostAddress": "10.68.39.203",
+                    "Name": "Lab02-03",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{f15fa43b-b4e5-41e6-a141-533849607d0c}"
+                },
+                {
+                    "HostAddress": "10.68.39.204",
+                    "Name": "Lab02-04",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{eb29fe2e-e232-4f13-b9d5-7a709a9a104b}"
+                },
+                {
+                    "HostAddress": "10.68.39.205",
+                    "Name": "Lab02-05",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{23e1fb25-4560-4416-9ce0-c74dea53d76a}"
+                },
+                {
+                    "HostAddress": "10.68.39.206",
+                    "Name": "Lab02-06",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{ae09925b-c424-4ec1-8501-1ff43cb3ff36}"
+                },
+                {
+                    "HostAddress": "10.68.39.207",
+                    "Name": "Lab02-07",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{feab2099-5ae1-4a0b-9743-2da5f84bbd06}"
+                },
+                {
+                    "HostAddress": "10.68.39.208",
+                    "Name": "Lab02-08",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{bfaf6d44-420d-468f-835b-e4129d0ae96f}"
+                },
+                {
+                    "HostAddress": "10.68.39.209",
+                    "Name": "Lab02-09",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{5e446332-7009-4bac-9274-72e20404e0df}"
+                },
+                {
+                    "HostAddress": "10.68.39.210",
+                    "Name": "Lab02-10",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{7d5c969a-ce2d-4cd7-adb0-5c646b7163c6}"
+                },
+                {
+                    "HostAddress": "10.68.39.211",
+                    "Name": "Lab02-11",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{eb0c433c-20c2-482f-97c7-05fd6dad1e01}"
+                },
+                {
+                    "HostAddress": "10.68.39.212",
+                    "Name": "Lab02-12",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{0b691c6c-8357-4cb9-868c-9b4d06e9dfd2}"
+                },
+                {
+                    "HostAddress": "10.68.39.213",
+                    "Name": "Lab02-13",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{201568c2-f462-4d11-9812-1fa7b8ab3fdf}"
+                },
+                {
+                    "HostAddress": "10.68.39.214",
+                    "Name": "Lab02-14",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{5a7d1ca7-a66b-47d8-8eb0-3989bb1698da}"
+                },
+                {
+                    "HostAddress": "10.68.39.215",
+                    "Name": "Lab02-15",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{090eb080-55cb-4bfa-a2cf-205dce0a9ad1}"
+                },
+                {
+                    "HostAddress": "10.68.39.216",
+                    "Name": "Lab02-16",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{de42a5bb-0eca-4291-80d2-41758e957053}"
+                },
+                {
+                    "HostAddress": "10.68.39.217",
+                    "Name": "Lab02-17",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{e79f2f6a-273c-4180-a1c8-d6b0b05ad49f}"
+                },
+                {
+                    "HostAddress": "10.68.39.218",
+                    "Name": "Lab02-18",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{74869746-e8cb-4b6a-abdf-ce087d938144}"
+                },
+                {
+                    "HostAddress": "10.68.39.219",
+                    "Name": "Lab02-prof",
+                    "ParentUid": "{e228469f-0c3d-4e6d-822a-d8ffe6f307cd}",
+                    "Type": 3,
+                    "Uid": "{4cc68fc1-aa2b-4a94-bc69-4e093acbea5b}"
+                }
+            ]
+        }
+    },
+    "Core": {
+        "ApplicationVersion": "8",
+        "InstallationID": "b472453b-2b6a-4dd0-8b80-1a9b1044622d",
+        "PluginVersions": {
+            "JsonStoreObject": {
+                "{14bacaaa-ebe5-449c-b881-5b382f952571}": "1.1",
+                "{1b08265b-348f-4978-acaa-45d4f6b90bd9}": "1.1",
+                "{1baa01e0-02d6-4494-a766-788f5b225991}": "1.1",
+                "{2917cdeb-ac13-4099-8715-20368254a367}": "1.1",
+                "{2ad98ccb-e9a5-43ef-8c4c-876ac5efbcb1}": "1.1",
+                "{387a0c43-1355-4ff6-9e1f-d098e9ce5127}": "1.1",
+                "{39d7a07f-94db-4912-aa1a-c4df8aee3879}": "1.1",
+                "{4122e8ca-b617-4e36-b851-8e050ed2d82e}": "1.2",
+                "{4790bad8-4c56-40d5-8361-099a68f0c24b}": "1.1",
+                "{67dfc1c1-8f37-4539-a298-16e74e34fd8b}": "1.1",
+                "{6f0a491e-c1c6-4338-8244-f823b0bf8670}": "1.2",
+                "{80580500-2e59-4297-9e35-e53959b028cd}": "1.2",
+                "{8ae6668b-9c12-4b29-9bfc-ff89f6604164}": "1.1",
+                "{a54ee018-42bf-4569-90c7-0d8470125ccf}": "2.0",
+                "{d4bb9c42-9eef-4ecb-8dd5-dfd84b355481}": "1.0",
+                "{e11bee03-b99c-465c-bf90-7e5339b83f6b}": "1.0",
+                "{ee322521-f4fb-482d-b082-82a79003afa7}": "1.1",
+                "{f626f759-7691-45c0-bd4a-37171d98d219}": "1.0"
+            }
+        }
+    },
+    "Features": {
+        "DisabledFeatures": [
+            "{f483c659-b5e7-4dbc-bd91-2c9403e70ebd}"
+        ]
+    },
+    "LDAP": {
+        "ComputerLocationAttribute": "",
+        "ComputerLocationsByAttribute": "false",
+        "ComputerLocationsByContainer": "false",
+        "LocationNameAttribute": "",
+        "UserLoginNameAttribute": ""
+    },
+    "Master": {
+        "AllowAddingHiddenLocations": "false",
+        "AutoAdjustMonitoringIconSize": "false",
+        "AutoOpenComputerSelectPanel": "false",
+        "AutoSelectCurrentLocation": "false",
+        "ConfirmUnsafeActions": "false",
+        "HideComputerFilter": "false",
+        "HideEmptyLocations": "false",
+        "HideLocalComputer": "false",
+        "ShowCurrentLocationOnly": "false"
+    },
+    "Network": {
+        "FirewallExceptionEnabled": "1",
+        "VeyonServerPort": 11100
+    },
+    "Service": {
+        "FailedAuthenticationNotifications": "false"
+    },
+    "UI": {
+        "Style": "0"
+    },
+    "VncServer": {
+        "Plugin": "39d7a07f-94db-4912-aa1a-c4df8aee3879"
+    },
+    "Windows": {
+        "SoftwareSASEnabled": "1"
+    }
+}
